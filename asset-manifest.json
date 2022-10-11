@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/One_N_Pay/static/css/main.d5e9842e.css",
+    "main.js": "/One_N_Pay/static/js/main.1e99cc3f.js",
+    "index.html": "/One_N_Pay/index.html",
+    "main.1e99cc3f.js.map": "/One_N_Pay/static/js/main.1e99cc3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e9842e.css",
+    "static/js/main.1e99cc3f.js"
+  ]
+}
